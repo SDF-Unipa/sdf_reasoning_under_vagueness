@@ -1,0 +1,1291 @@
+{
+ "name": "app3",
+ "stats": {
+  "schema_files": [
+   "SDF_ext.owl"
+  ],
+  "individuals": 2616,
+  "triples": 33953,
+  "renamed": {
+   "1.1.1_a_Finland_2021": "1.1.1_(a)_Finland_2021",
+   "1.1.1_a_Lithuania_2021": "1.1.1_(a)_Lithuania_2021",
+   "1.1.1_a_Norway_2021": "1.1.1_(a)_Norway_2021",
+   "1.1.1_a_Portugal_2021": "1.1.1_(a)_Portugal_2021",
+   "1.1.1_a_Czechia_2021": "1.1.1_(a)_Czechia_2021",
+   "1.1.1_a_Spain_2021": "1.1.1_(a)_Spain_2021",
+   "1.1.1_a_Austria_2021": "1.1.1_(a)_Austria_2021",
+   "1.1.1_a_Poland_2021": "1.1.1_(a)_Poland_2021",
+   "1.1.1_a_Luxembourg_2021": "1.1.1_(a)_Luxembourg_2021",
+   "1.1.1_a_Sweden_2021": "1.1.1_(a)_Sweden_2021",
+   "1.1.1_a_Netherlands_2021": "1.1.1_(a)_Netherlands_2021",
+   "1.1.1_a_Switzerland_2021": "1.1.1_(a)_Switzerland_2021",
+   "1.1.1_a_Denmark_2021": "1.1.1_(a)_Denmark_2021",
+   "1.1.1_a_Serbia_2021": "1.1.1_(a)_Serbia_2021",
+   "1.1.1_a_Armenia_2021": "1.1.1_(a)_Armenia_2021",
+   "1.1.1_a_Greece_2021": "1.1.1_(a)_Greece_2021",
+   "1.1.1_a_Latvia_2021": "1.1.1_(a)_Latvia_2021",
+   "1.1.1_a_Israel_2021": "1.1.1_(a)_Israel_2021",
+   "1.1.1_a_Italy_2021": "1.1.1_(a)_Italy_2021",
+   "1.1.1_a_United_States_2021": "1.1.1_(a)_United_States_2021",
+   "1.1.1_a_Belgium_2021": "1.1.1_(a)_Belgium_2021",
+   "1.1.1_a_France_2021": "1.1.1_(a)_France_2021",
+   "1.1.1_a_United_Kingdom_2021": "1.1.1_(a)_United_Kingdom_2021",
+   "Indicator_1.1.1_a": "Indicator_1.1.1_(a)",
+   "1.1.1_a_Estonia_2021": "1.1.1_(a)_Estonia_2021",
+   "1.1.1_a_Germany_2021": "1.1.1_(a)_Germany_2021",
+   "1.1.1_a_Slovenia_2021": "1.1.1_(a)_Slovenia_2021",
+   "1.1.1_a_Romania_2021": "1.1.1_(a)_Romania_2021",
+   "1.1.1_a_Croatia_2021": "1.1.1_(a)_Croatia_2021",
+   "1.1.1_a_Slovakia_2021": "1.1.1_(a)_Slovakia_2021",
+   "1.1.1_a_Republic_of_Moldova_2021": "1.1.1_(a)_Republic_of_Moldova_2021",
+   "1.1.1_a_Ireland_2021": "1.1.1_(a)_Ireland_2021"
+  },
+  "pruned_triples": 23431,
+  "slice_seconds": 2.21,
+  "owl2fdl_seconds": 192.4,
+  "kb_lines": 3003
+ },
+ "parse_seconds": 0.12,
+ "results": [
+  {
+   "query": "Is Armenia_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 5.981
+  },
+  {
+   "query": "Is Armenia_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.611
+  },
+  {
+   "query": "Is Armenia_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.514
+  },
+  {
+   "query": "Is Armenia_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.047
+  },
+  {
+   "query": "Is Armenia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.7469,
+   "seconds": 2.553
+  },
+  {
+   "query": "Is Armenia_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.504
+  },
+  {
+   "query": "Is Armenia_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 3.059
+  },
+  {
+   "query": "Is Armenia_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.587
+  },
+  {
+   "query": "Is Austria_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.577
+  },
+  {
+   "query": "Is Austria_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.055
+  },
+  {
+   "query": "Is Austria_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.627
+  },
+  {
+   "query": "Is Austria_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.601
+  },
+  {
+   "query": "Is Austria_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.592
+  },
+  {
+   "query": "Is Austria_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.575
+  },
+  {
+   "query": "Is Austria_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.063
+  },
+  {
+   "query": "Is Austria_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.607
+  },
+  {
+   "query": "Is Belgium_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.604
+  },
+  {
+   "query": "Is Belgium_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.558
+  },
+  {
+   "query": "Is Belgium_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.036
+  },
+  {
+   "query": "Is Belgium_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.603
+  },
+  {
+   "query": "Is Belgium_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.556
+  },
+  {
+   "query": "Is Belgium_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.1
+  },
+  {
+   "query": "Is Belgium_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.736
+  },
+  {
+   "query": "Is Belgium_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.28
+  },
+  {
+   "query": "Is Croatia_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.581
+  },
+  {
+   "query": "Is Croatia_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.515
+  },
+  {
+   "query": "Is Croatia_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.033
+  },
+  {
+   "query": "Is Croatia_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.601
+  },
+  {
+   "query": "Is Croatia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.539
+  },
+  {
+   "query": "Is Croatia_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.1333,
+   "seconds": 3.054
+  },
+  {
+   "query": "Is Croatia_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 2.576
+  },
+  {
+   "query": "Is Croatia_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.836
+  },
+  {
+   "query": "Is Czechia_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.344
+  },
+  {
+   "query": "Is Czechia_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.88
+  },
+  {
+   "query": "Is Czechia_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.649
+  },
+  {
+   "query": "Is Czechia_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.04
+  },
+  {
+   "query": "Is Czechia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.614
+  },
+  {
+   "query": "Is Czechia_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.542
+  },
+  {
+   "query": "Is Czechia_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 3.429
+  },
+  {
+   "query": "Is Czechia_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.615
+  },
+  {
+   "query": "Is Denmark_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.594
+  },
+  {
+   "query": "Is Denmark_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.138
+  },
+  {
+   "query": "Is Denmark_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.705
+  },
+  {
+   "query": "Is Denmark_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.561
+  },
+  {
+   "query": "Is Denmark_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.44
+  },
+  {
+   "query": "Is Denmark_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.627
+  },
+  {
+   "query": "Is Denmark_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 2.535
+  },
+  {
+   "query": "Is Denmark_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.125
+  },
+  {
+   "query": "Is Estonia_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.576
+  },
+  {
+   "query": "Is Estonia_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.552
+  },
+  {
+   "query": "Is Estonia_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.067
+  },
+  {
+   "query": "Is Estonia_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.59
+  },
+  {
+   "query": "Is Estonia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.551
+  },
+  {
+   "query": "Is Estonia_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.028
+  },
+  {
+   "query": "Is Estonia_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.561
+  },
+  {
+   "query": "Is Estonia_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.557
+  },
+  {
+   "query": "Is Finland_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.02
+  },
+  {
+   "query": "Is Finland_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.563
+  },
+  {
+   "query": "Is Finland_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.56
+  },
+  {
+   "query": "Is Finland_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.985
+  },
+  {
+   "query": "Is Finland_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.6375,
+   "seconds": 2.562
+  },
+  {
+   "query": "Is Finland_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.903
+  },
+  {
+   "query": "Is Finland_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.058
+  },
+  {
+   "query": "Is Finland_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.553
+  },
+  {
+   "query": "Is France_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.549
+  },
+  {
+   "query": "Is France_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.042
+  },
+  {
+   "query": "Is France_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.574
+  },
+  {
+   "query": "Is France_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.538
+  },
+  {
+   "query": "Is France_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.004
+  },
+  {
+   "query": "Is France_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0033,
+   "seconds": 2.564
+  },
+  {
+   "query": "Is France_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.527
+  },
+  {
+   "query": "Is France_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.007
+  },
+  {
+   "query": "Is Germany_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.548
+  },
+  {
+   "query": "Is Germany_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.496
+  },
+  {
+   "query": "Is Germany_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.05
+  },
+  {
+   "query": "Is Germany_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.532
+  },
+  {
+   "query": "Is Germany_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.72,
+   "seconds": 2.536
+  },
+  {
+   "query": "Is Germany_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.047
+  },
+  {
+   "query": "Is Germany_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.525
+  },
+  {
+   "query": "Is Germany_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.502
+  },
+  {
+   "query": "Is Greece_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.014
+  },
+  {
+   "query": "Is Greece_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.588
+  },
+  {
+   "query": "Is Greece_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.541
+  },
+  {
+   "query": "Is Greece_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.05
+  },
+  {
+   "query": "Is Greece_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.568
+  },
+  {
+   "query": "Is Greece_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.2,
+   "seconds": 2.508
+  },
+  {
+   "query": "Is Greece_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.144
+  },
+  {
+   "query": "Is Greece_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.548
+  },
+  {
+   "query": "Is Ireland_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.55
+  },
+  {
+   "query": "Is Ireland_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.025
+  },
+  {
+   "query": "Is Ireland_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.551
+  },
+  {
+   "query": "Is Ireland_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.542
+  },
+  {
+   "query": "Is Ireland_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.072
+  },
+  {
+   "query": "Is Ireland_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.565
+  },
+  {
+   "query": "Is Ireland_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.548
+  },
+  {
+   "query": "Is Ireland_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.039
+  },
+  {
+   "query": "Is Israel_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.576
+  },
+  {
+   "query": "Is Israel_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.563
+  },
+  {
+   "query": "Is Israel_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.067
+  },
+  {
+   "query": "Is Israel_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.579
+  },
+  {
+   "query": "Is Israel_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.527
+  },
+  {
+   "query": "Is Israel_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.034
+  },
+  {
+   "query": "Is Israel_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 2.556
+  },
+  {
+   "query": "Is Israel_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.561
+  },
+  {
+   "query": "Is Italy_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.996
+  },
+  {
+   "query": "Is Italy_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.56
+  },
+  {
+   "query": "Is Italy_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.52
+  },
+  {
+   "query": "Is Italy_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.078
+  },
+  {
+   "query": "Is Italy_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.513
+  },
+  {
+   "query": "Is Italy_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.504
+  },
+  {
+   "query": "Is Italy_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.041
+  },
+  {
+   "query": "Is Italy_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.547
+  },
+  {
+   "query": "Is Latvia_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.536
+  },
+  {
+   "query": "Is Latvia_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.993
+  },
+  {
+   "query": "Is Latvia_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.523
+  },
+  {
+   "query": "Is Latvia_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.521
+  },
+  {
+   "query": "Is Latvia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.024
+  },
+  {
+   "query": "Is Latvia_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.526
+  },
+  {
+   "query": "Is Latvia_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.526
+  },
+  {
+   "query": "Is Latvia_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.014
+  },
+  {
+   "query": "Is Lithuania_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.546
+  },
+  {
+   "query": "Is Lithuania_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.543
+  },
+  {
+   "query": "Is Lithuania_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.027
+  },
+  {
+   "query": "Is Lithuania_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.57
+  },
+  {
+   "query": "Is Lithuania_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.597
+  },
+  {
+   "query": "Is Lithuania_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.021
+  },
+  {
+   "query": "Is Lithuania_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.573
+  },
+  {
+   "query": "Is Lithuania_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.544
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.006
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.596
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.535
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.098
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.551
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.563
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.024
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.544
+  },
+  {
+   "query": "Is Netherlands_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.52
+  },
+  {
+   "query": "Is Netherlands_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.057
+  },
+  {
+   "query": "Is Netherlands_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.549
+  },
+  {
+   "query": "Is Netherlands_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.566
+  },
+  {
+   "query": "Is Netherlands_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.032
+  },
+  {
+   "query": "Is Netherlands_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.572
+  },
+  {
+   "query": "Is Netherlands_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.566
+  },
+  {
+   "query": "Is Netherlands_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.018
+  },
+  {
+   "query": "Is Norway_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.573
+  },
+  {
+   "query": "Is Norway_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.527
+  },
+  {
+   "query": "Is Norway_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.017
+  },
+  {
+   "query": "Is Norway_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.563
+  },
+  {
+   "query": "Is Norway_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.705,
+   "seconds": 2.54
+  },
+  {
+   "query": "Is Norway_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.018
+  },
+  {
+   "query": "Is Norway_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 2.523
+  },
+  {
+   "query": "Is Norway_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.556
+  },
+  {
+   "query": "Is Poland_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.005
+  },
+  {
+   "query": "Is Poland_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.557
+  },
+  {
+   "query": "Is Poland_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.548
+  },
+  {
+   "query": "Is Poland_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.028
+  },
+  {
+   "query": "Is Poland_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.583
+  },
+  {
+   "query": "Is Poland_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.548
+  },
+  {
+   "query": "Is Poland_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 3.041
+  },
+  {
+   "query": "Is Poland_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.552
+  },
+  {
+   "query": "Is Portugal_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.518
+  },
+  {
+   "query": "Is Portugal_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.996
+  },
+  {
+   "query": "Is Portugal_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.61
+  },
+  {
+   "query": "Is Portugal_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.665
+  },
+  {
+   "query": "Is Portugal_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.202
+  },
+  {
+   "query": "Is Portugal_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.856
+  },
+  {
+   "query": "Is Portugal_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.673
+  },
+  {
+   "query": "Is Portugal_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.167
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.538
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.55
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.052
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.568
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.568
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.098
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 2.595
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.571
+  },
+  {
+   "query": "Is Romania_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.05
+  },
+  {
+   "query": "Is Romania_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.599
+  },
+  {
+   "query": "Is Romania_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.6
+  },
+  {
+   "query": "Is Romania_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.045
+  },
+  {
+   "query": "Is Romania_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.559
+  },
+  {
+   "query": "Is Romania_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.545
+  },
+  {
+   "query": "Is Romania_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 3.104
+  },
+  {
+   "query": "Is Romania_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.59
+  },
+  {
+   "query": "Is Serbia_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.567
+  },
+  {
+   "query": "Is Serbia_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.105
+  },
+  {
+   "query": "Is Serbia_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.592
+  },
+  {
+   "query": "Is Serbia_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.2257,
+   "seconds": 2.558
+  },
+  {
+   "query": "Is Serbia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.5647,
+   "seconds": 3.09
+  },
+  {
+   "query": "Is Serbia_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.2,
+   "seconds": 2.576
+  },
+  {
+   "query": "Is Serbia_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 2.555
+  },
+  {
+   "query": "Is Serbia_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.2,
+   "seconds": 3.054
+  },
+  {
+   "query": "Is Slovakia_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.556
+  },
+  {
+   "query": "Is Slovakia_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.539
+  },
+  {
+   "query": "Is Slovakia_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.07
+  },
+  {
+   "query": "Is Slovakia_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.557
+  },
+  {
+   "query": "Is Slovakia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.555
+  },
+  {
+   "query": "Is Slovakia_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.063
+  },
+  {
+   "query": "Is Slovakia_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.558
+  },
+  {
+   "query": "Is Slovakia_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.575
+  },
+  {
+   "query": "Is Slovenia_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.083
+  },
+  {
+   "query": "Is Slovenia_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.577
+  },
+  {
+   "query": "Is Slovenia_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.55
+  },
+  {
+   "query": "Is Slovenia_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.102
+  },
+  {
+   "query": "Is Slovenia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.575
+  },
+  {
+   "query": "Is Slovenia_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.578
+  },
+  {
+   "query": "Is Slovenia_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.091
+  },
+  {
+   "query": "Is Slovenia_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.565
+  },
+  {
+   "query": "Is Spain_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.553
+  },
+  {
+   "query": "Is Spain_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.277
+  },
+  {
+   "query": "Is Spain_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.015
+  },
+  {
+   "query": "Is Spain_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.64
+  },
+  {
+   "query": "Is Spain_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.168
+  },
+  {
+   "query": "Is Spain_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.1933,
+   "seconds": 3.055
+  },
+  {
+   "query": "Is Spain_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.716
+  },
+  {
+   "query": "Is Spain_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.133
+  },
+  {
+   "query": "Is Sweden_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.011
+  },
+  {
+   "query": "Is Sweden_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.982
+  },
+  {
+   "query": "Is Sweden_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.317
+  },
+  {
+   "query": "Is Sweden_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.687
+  },
+  {
+   "query": "Is Sweden_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.606
+  },
+  {
+   "query": "Is Sweden_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.562
+  },
+  {
+   "query": "Is Sweden_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 3.161
+  },
+  {
+   "query": "Is Sweden_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.572
+  },
+  {
+   "query": "Is Switzerland_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.563
+  },
+  {
+   "query": "Is Switzerland_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 3.169
+  },
+  {
+   "query": "Is Switzerland_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.706
+  },
+  {
+   "query": "Is Switzerland_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.563
+  },
+  {
+   "query": "Is Switzerland_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.114
+  },
+  {
+   "query": "Is Switzerland_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.644
+  },
+  {
+   "query": "Is Switzerland_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 2.561
+  },
+  {
+   "query": "Is Switzerland_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.024
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.624
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.586
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.08
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 2.553
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.565
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.113
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 2.645
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.583
+  },
+  {
+   "query": "Is United_States_2021 instance of EuroAreaTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 3.099
+  },
+  {
+   "query": "Is United_States_2021 instance of HighIncomeTerritory ? >= ",
+   "value": 1.0,
+   "seconds": 2.593
+  },
+  {
+   "query": "Is United_States_2021 instance of MiddleIncomeTerritory ? >= ",
+   "value": 0.0,
+   "seconds": 2.556
+  },
+  {
+   "query": "Is United_States_2021 instance of GreenTransitionReadiness ? >= ",
+   "value": 0.55,
+   "seconds": 3.034
+  },
+  {
+   "query": "Is United_States_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.795
+  },
+  {
+   "query": "Is United_States_2021 instance of StructuralDevelopmentStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.753
+  },
+  {
+   "query": "Is United_States_2021 instance of EuroAreaGreenReadiness ? >= ",
+   "value": 0.0,
+   "seconds": 3.337
+  },
+  {
+   "query": "Is United_States_2021 instance of MiddleIncomeStructuralStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.644
+  }
+ ]
+}

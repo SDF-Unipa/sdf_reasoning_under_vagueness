@@ -1,0 +1,838 @@
+{
+ "name": "app5",
+ "stats": {
+  "schema_files": [
+   "SDF_ext.owl"
+  ],
+  "individuals": 278,
+  "triples": 12730,
+  "renamed": {
+   "1.1.1_a_Italy_2021": "1.1.1_(a)_Italy_2021",
+   "1.1.1_a_Greece_2019": "1.1.1_(a)_Greece_2019",
+   "1.1.1_a_Portugal_2019": "1.1.1_(a)_Portugal_2019",
+   "1.1.1_a_Croatia_2022": "1.1.1_(a)_Croatia_2022",
+   "1.1.1_a_Greece_2022": "1.1.1_(a)_Greece_2022",
+   "1.1.1_a_Greece_2016": "1.1.1_(a)_Greece_2016",
+   "1.1.1_a_Croatia_2018": "1.1.1_(a)_Croatia_2018",
+   "1.1.1_a_Spain_2023": "1.1.1_(a)_Spain_2023",
+   "1.1.1_a_Croatia_2015": "1.1.1_(a)_Croatia_2015",
+   "1.1.1_a_Greece_2015": "1.1.1_(a)_Greece_2015",
+   "1.1.1_a_Greece_2023": "1.1.1_(a)_Greece_2023",
+   "1.1.1_a_Spain_2021": "1.1.1_(a)_Spain_2021",
+   "1.1.1_a_Greece_2020": "1.1.1_(a)_Greece_2020",
+   "1.1.1_a_Croatia_2017": "1.1.1_(a)_Croatia_2017",
+   "1.1.1_a_Spain_2015": "1.1.1_(a)_Spain_2015",
+   "1.1.1_a_Spain_2022": "1.1.1_(a)_Spain_2022",
+   "1.1.1_a_Croatia_2023": "1.1.1_(a)_Croatia_2023",
+   "1.1.1_a_Croatia_2019": "1.1.1_(a)_Croatia_2019",
+   "1.1.1_a_Croatia_2021": "1.1.1_(a)_Croatia_2021",
+   "1.1.1_a_Greece_2018": "1.1.1_(a)_Greece_2018",
+   "1.1.1_a_Spain_2019": "1.1.1_(a)_Spain_2019",
+   "1.1.1_a_Portugal_2018": "1.1.1_(a)_Portugal_2018",
+   "1.1.1_a_Spain_2017": "1.1.1_(a)_Spain_2017",
+   "1.1.1_a_Croatia_2020": "1.1.1_(a)_Croatia_2020",
+   "1.1.1_a_Portugal_2017": "1.1.1_(a)_Portugal_2017",
+   "1.1.1_a_Spain_2018": "1.1.1_(a)_Spain_2018",
+   "1.1.1_a_Portugal_2022": "1.1.1_(a)_Portugal_2022",
+   "1.1.1_a_Portugal_2015": "1.1.1_(a)_Portugal_2015",
+   "1.1.1_a_Portugal_2020": "1.1.1_(a)_Portugal_2020",
+   "1.1.1_a_Portugal_2016": "1.1.1_(a)_Portugal_2016",
+   "1.1.1_a_Italy_2022": "1.1.1_(a)_Italy_2022",
+   "1.1.1_a_Spain_2016": "1.1.1_(a)_Spain_2016",
+   "1.1.1_a_Italy_2023": "1.1.1_(a)_Italy_2023",
+   "1.1.1_a_Greece_2017": "1.1.1_(a)_Greece_2017",
+   "1.1.1_a_Croatia_2016": "1.1.1_(a)_Croatia_2016",
+   "Indicator_1.1.1_a": "Indicator_1.1.1_(a)",
+   "1.1.1_a_Portugal_2021": "1.1.1_(a)_Portugal_2021",
+   "1.1.1_a_Portugal_2023": "1.1.1_(a)_Portugal_2023",
+   "1.1.1_a_Spain_2020": "1.1.1_(a)_Spain_2020",
+   "1.1.1_a_Greece_2021": "1.1.1_(a)_Greece_2021"
+  },
+  "slice_seconds": 0.6,
+  "owl2fdl_seconds": 178.52,
+  "kb_lines": 2609
+ },
+ "parse_seconds": 0.03,
+ "results": [
+  {
+   "query": "Is Croatia_2015 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 6.56
+  },
+  {
+   "query": "Is Croatia_2015 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.69,
+   "seconds": 2.82
+  },
+  {
+   "query": "Is Croatia_2015 instance of JoblessGrowth ? >= ",
+   "value": 0.8,
+   "seconds": 3.305
+  },
+  {
+   "query": "Is Croatia_2015 instance of Recovery ? >= ",
+   "value": 0.34,
+   "seconds": 2.892
+  },
+  {
+   "query": "Is Greece_2015 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.857
+  },
+  {
+   "query": "Is Greece_2015 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.48,
+   "seconds": 3.356
+  },
+  {
+   "query": "Is Greece_2015 instance of JoblessGrowth ? >= ",
+   "value": 0.1,
+   "seconds": 2.88
+  },
+  {
+   "query": "Is Greece_2015 instance of Recovery ? >= ",
+   "value": 0.13,
+   "seconds": 2.93
+  },
+  {
+   "query": "Is Portugal_2015 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 3.365
+  },
+  {
+   "query": "Is Portugal_2015 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.5925,
+   "seconds": 2.902
+  },
+  {
+   "query": "Is Portugal_2015 instance of JoblessGrowth ? >= ",
+   "value": 0.475,
+   "seconds": 2.884
+  },
+  {
+   "query": "Is Portugal_2015 instance of Recovery ? >= ",
+   "value": 0.2425,
+   "seconds": 2.946
+  },
+  {
+   "query": "Is Spain_2015 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 3.363
+  },
+  {
+   "query": "Is Spain_2015 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.977
+  },
+  {
+   "query": "Is Spain_2015 instance of JoblessGrowth ? >= ",
+   "value": 1.0,
+   "seconds": 3.458
+  },
+  {
+   "query": "Is Spain_2015 instance of Recovery ? >= ",
+   "value": 0.4,
+   "seconds": 2.95
+  },
+  {
+   "query": "Is Croatia_2016 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.848
+  },
+  {
+   "query": "Is Croatia_2016 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.374
+  },
+  {
+   "query": "Is Croatia_2016 instance of JoblessGrowth ? >= ",
+   "value": 1.0,
+   "seconds": 2.971
+  },
+  {
+   "query": "Is Croatia_2016 instance of Recovery ? >= ",
+   "value": 0.4,
+   "seconds": 2.833
+  },
+  {
+   "query": "Is Greece_2016 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 3.758
+  },
+  {
+   "query": "Is Greece_2016 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.48,
+   "seconds": 2.922
+  },
+  {
+   "query": "Is Greece_2016 instance of JoblessGrowth ? >= ",
+   "value": 0.1,
+   "seconds": 2.838
+  },
+  {
+   "query": "Is Greece_2016 instance of Recovery ? >= ",
+   "value": 0.13,
+   "seconds": 3.515
+  },
+  {
+   "query": "Is Portugal_2016 instance of EconomicStress ? >= ",
+   "value": 0.2508,
+   "seconds": 2.924
+  },
+  {
+   "query": "Is Portugal_2016 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.615,
+   "seconds": 2.826
+  },
+  {
+   "query": "Is Portugal_2016 instance of JoblessGrowth ? >= ",
+   "value": 0.2667,
+   "seconds": 3.317
+  },
+  {
+   "query": "Is Portugal_2016 instance of Recovery ? >= ",
+   "value": 0.3642,
+   "seconds": 2.855
+  },
+  {
+   "query": "Is Spain_2016 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 3.366
+  },
+  {
+   "query": "Is Spain_2016 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.66,
+   "seconds": 2.897
+  },
+  {
+   "query": "Is Spain_2016 instance of JoblessGrowth ? >= ",
+   "value": 0.7,
+   "seconds": 2.824
+  },
+  {
+   "query": "Is Spain_2016 instance of Recovery ? >= ",
+   "value": 0.31,
+   "seconds": 3.547
+  },
+  {
+   "query": "Is Croatia_2017 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.916
+  },
+  {
+   "query": "Is Croatia_2017 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.775
+  },
+  {
+   "query": "Is Croatia_2017 instance of JoblessGrowth ? >= ",
+   "value": 1.0,
+   "seconds": 3.212
+  },
+  {
+   "query": "Is Croatia_2017 instance of Recovery ? >= ",
+   "value": 0.4,
+   "seconds": 2.856
+  },
+  {
+   "query": "Is Greece_2017 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 3.018
+  },
+  {
+   "query": "Is Greece_2017 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.5775,
+   "seconds": 3.457
+  },
+  {
+   "query": "Is Greece_2017 instance of JoblessGrowth ? >= ",
+   "value": 0.425,
+   "seconds": 2.984
+  },
+  {
+   "query": "Is Greece_2017 instance of Recovery ? >= ",
+   "value": 0.2275,
+   "seconds": 3.433
+  },
+  {
+   "query": "Is Portugal_2017 instance of EconomicStress ? >= ",
+   "value": 0.105,
+   "seconds": 2.922
+  },
+  {
+   "query": "Is Portugal_2017 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.7125,
+   "seconds": 2.902
+  },
+  {
+   "query": "Is Portugal_2017 instance of JoblessGrowth ? >= ",
+   "value": 0.175,
+   "seconds": 3.5
+  },
+  {
+   "query": "Is Portugal_2017 instance of Recovery ? >= ",
+   "value": 0.6075,
+   "seconds": 2.936
+  },
+  {
+   "query": "Is Spain_2017 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.928
+  },
+  {
+   "query": "Is Spain_2017 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.645,
+   "seconds": 3.331
+  },
+  {
+   "query": "Is Spain_2017 instance of JoblessGrowth ? >= ",
+   "value": 0.65,
+   "seconds": 2.881
+  },
+  {
+   "query": "Is Spain_2017 instance of Recovery ? >= ",
+   "value": 0.295,
+   "seconds": 3.43
+  },
+  {
+   "query": "Is Croatia_2018 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.923
+  },
+  {
+   "query": "Is Croatia_2018 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.877
+  },
+  {
+   "query": "Is Croatia_2018 instance of JoblessGrowth ? >= ",
+   "value": 1.0,
+   "seconds": 3.344
+  },
+  {
+   "query": "Is Croatia_2018 instance of Recovery ? >= ",
+   "value": 0.4,
+   "seconds": 2.956
+  },
+  {
+   "query": "Is Greece_2018 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.961
+  },
+  {
+   "query": "Is Greece_2018 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.6225,
+   "seconds": 3.564
+  },
+  {
+   "query": "Is Greece_2018 instance of JoblessGrowth ? >= ",
+   "value": 0.575,
+   "seconds": 2.897
+  },
+  {
+   "query": "Is Greece_2018 instance of Recovery ? >= ",
+   "value": 0.2725,
+   "seconds": 2.919
+  },
+  {
+   "query": "Is Portugal_2018 instance of EconomicStress ? >= ",
+   "value": 0.0233,
+   "seconds": 3.407
+  },
+  {
+   "query": "Is Portugal_2018 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.675,
+   "seconds": 2.962
+  },
+  {
+   "query": "Is Portugal_2018 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 2.897
+  },
+  {
+   "query": "Is Portugal_2018 instance of Recovery ? >= ",
+   "value": 0.6517,
+   "seconds": 3.367
+  },
+  {
+   "query": "Is Spain_2018 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.927
+  },
+  {
+   "query": "Is Spain_2018 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.5925,
+   "seconds": 2.866
+  },
+  {
+   "query": "Is Spain_2018 instance of JoblessGrowth ? >= ",
+   "value": 0.475,
+   "seconds": 3.319
+  },
+  {
+   "query": "Is Spain_2018 instance of Recovery ? >= ",
+   "value": 0.2425,
+   "seconds": 2.866
+  },
+  {
+   "query": "Is Croatia_2019 instance of EconomicStress ? >= ",
+   "value": 0.2275,
+   "seconds": 3.416
+  },
+  {
+   "query": "Is Croatia_2019 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.954
+  },
+  {
+   "query": "Is Croatia_2019 instance of JoblessGrowth ? >= ",
+   "value": 0.65,
+   "seconds": 2.8
+  },
+  {
+   "query": "Is Croatia_2019 instance of Recovery ? >= ",
+   "value": 0.5225,
+   "seconds": 3.416
+  },
+  {
+   "query": "Is Greece_2019 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.857
+  },
+  {
+   "query": "Is Greece_2019 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.63,
+   "seconds": 2.933
+  },
+  {
+   "query": "Is Greece_2019 instance of JoblessGrowth ? >= ",
+   "value": 0.6,
+   "seconds": 3.504
+  },
+  {
+   "query": "Is Greece_2019 instance of Recovery ? >= ",
+   "value": 0.28,
+   "seconds": 2.944
+  },
+  {
+   "query": "Is Portugal_2019 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.38
+  },
+  {
+   "query": "Is Portugal_2019 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.645,
+   "seconds": 2.924
+  },
+  {
+   "query": "Is Portugal_2019 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 2.872
+  },
+  {
+   "query": "Is Portugal_2019 instance of Recovery ? >= ",
+   "value": 0.645,
+   "seconds": 3.491
+  },
+  {
+   "query": "Is Spain_2019 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.957
+  },
+  {
+   "query": "Is Spain_2019 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.54,
+   "seconds": 2.966
+  },
+  {
+   "query": "Is Spain_2019 instance of JoblessGrowth ? >= ",
+   "value": 0.3,
+   "seconds": 3.427
+  },
+  {
+   "query": "Is Spain_2019 instance of Recovery ? >= ",
+   "value": 0.19,
+   "seconds": 2.886
+  },
+  {
+   "query": "Is Croatia_2020 instance of EconomicStress ? >= ",
+   "value": 0.654,
+   "seconds": 2.94
+  },
+  {
+   "query": "Is Croatia_2020 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.45,
+   "seconds": 3.384
+  },
+  {
+   "query": "Is Croatia_2020 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 2.904
+  },
+  {
+   "query": "Is Croatia_2020 instance of Recovery ? >= ",
+   "value": 0.0,
+   "seconds": 2.858
+  },
+  {
+   "query": "Is Greece_2020 instance of EconomicStress ? >= ",
+   "value": 0.71,
+   "seconds": 3.358
+  },
+  {
+   "query": "Is Greece_2020 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.45,
+   "seconds": 2.872
+  },
+  {
+   "query": "Is Greece_2020 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 2.839
+  },
+  {
+   "query": "Is Greece_2020 instance of Recovery ? >= ",
+   "value": 0.0,
+   "seconds": 3.353
+  },
+  {
+   "query": "Is Portugal_2020 instance of EconomicStress ? >= ",
+   "value": 0.4118,
+   "seconds": 2.907
+  },
+  {
+   "query": "Is Portugal_2020 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.45,
+   "seconds": 2.868
+  },
+  {
+   "query": "Is Portugal_2020 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 3.398
+  },
+  {
+   "query": "Is Portugal_2020 instance of Recovery ? >= ",
+   "value": 0.0382,
+   "seconds": 2.849
+  },
+  {
+   "query": "Is Spain_2020 instance of EconomicStress ? >= ",
+   "value": 0.75,
+   "seconds": 3.342
+  },
+  {
+   "query": "Is Spain_2020 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.45,
+   "seconds": 2.87
+  },
+  {
+   "query": "Is Spain_2020 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 2.857
+  },
+  {
+   "query": "Is Spain_2020 instance of Recovery ? >= ",
+   "value": 0.0,
+   "seconds": 3.356
+  },
+  {
+   "query": "Is Croatia_2021 instance of EconomicStress ? >= ",
+   "value": 0.2333,
+   "seconds": 2.855
+  },
+  {
+   "query": "Is Croatia_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.412
+  },
+  {
+   "query": "Is Croatia_2021 instance of JoblessGrowth ? >= ",
+   "value": 0.6667,
+   "seconds": 2.985
+  },
+  {
+   "query": "Is Croatia_2021 instance of Recovery ? >= ",
+   "value": 0.5167,
+   "seconds": 2.99
+  },
+  {
+   "query": "Is Greece_2021 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.846
+  },
+  {
+   "query": "Is Greece_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.371
+  },
+  {
+   "query": "Is Greece_2021 instance of JoblessGrowth ? >= ",
+   "value": 1.0,
+   "seconds": 2.863
+  },
+  {
+   "query": "Is Greece_2021 instance of Recovery ? >= ",
+   "value": 0.4,
+   "seconds": 2.894
+  },
+  {
+   "query": "Is Italy_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.32
+  },
+  {
+   "query": "Is Italy_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.788
+  },
+  {
+   "query": "Is Italy_2021 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 3.3
+  },
+  {
+   "query": "Is Italy_2021 instance of Recovery ? >= ",
+   "value": 0.75,
+   "seconds": 3.108
+  },
+  {
+   "query": "Is Portugal_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.404
+  },
+  {
+   "query": "Is Portugal_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.932
+  },
+  {
+   "query": "Is Portugal_2021 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 3.078
+  },
+  {
+   "query": "Is Portugal_2021 instance of Recovery ? >= ",
+   "value": 0.75,
+   "seconds": 2.886
+  },
+  {
+   "query": "Is Spain_2021 instance of EconomicStress ? >= ",
+   "value": 0.3383,
+   "seconds": 3.475
+  },
+  {
+   "query": "Is Spain_2021 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.99
+  },
+  {
+   "query": "Is Spain_2021 instance of JoblessGrowth ? >= ",
+   "value": 0.9667,
+   "seconds": 2.998
+  },
+  {
+   "query": "Is Spain_2021 instance of Recovery ? >= ",
+   "value": 0.4117,
+   "seconds": 3.457
+  },
+  {
+   "query": "Is Croatia_2022 instance of EconomicStress ? >= ",
+   "value": 0.0467,
+   "seconds": 2.956
+  },
+  {
+   "query": "Is Croatia_2022 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.432
+  },
+  {
+   "query": "Is Croatia_2022 instance of JoblessGrowth ? >= ",
+   "value": 0.1333,
+   "seconds": 3.015
+  },
+  {
+   "query": "Is Croatia_2022 instance of Recovery ? >= ",
+   "value": 0.7033,
+   "seconds": 2.953
+  },
+  {
+   "query": "Is Greece_2022 instance of EconomicStress ? >= ",
+   "value": 0.245,
+   "seconds": 3.436
+  },
+  {
+   "query": "Is Greece_2022 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.911
+  },
+  {
+   "query": "Is Greece_2022 instance of JoblessGrowth ? >= ",
+   "value": 0.7,
+   "seconds": 2.95
+  },
+  {
+   "query": "Is Greece_2022 instance of Recovery ? >= ",
+   "value": 0.505,
+   "seconds": 3.461
+  },
+  {
+   "query": "Is Italy_2022 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.911
+  },
+  {
+   "query": "Is Italy_2022 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 2.843
+  },
+  {
+   "query": "Is Italy_2022 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 3.479
+  },
+  {
+   "query": "Is Italy_2022 instance of Recovery ? >= ",
+   "value": 0.75,
+   "seconds": 3.006
+  },
+  {
+   "query": "Is Portugal_2022 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.885
+  },
+  {
+   "query": "Is Portugal_2022 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.727
+  },
+  {
+   "query": "Is Portugal_2022 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 3.095
+  },
+  {
+   "query": "Is Portugal_2022 instance of Recovery ? >= ",
+   "value": 0.75,
+   "seconds": 3.199
+  },
+  {
+   "query": "Is Spain_2022 instance of EconomicStress ? >= ",
+   "value": 0.21,
+   "seconds": 3.995
+  },
+  {
+   "query": "Is Spain_2022 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.303
+  },
+  {
+   "query": "Is Spain_2022 instance of JoblessGrowth ? >= ",
+   "value": 0.6,
+   "seconds": 3.589
+  },
+  {
+   "query": "Is Spain_2022 instance of Recovery ? >= ",
+   "value": 0.54,
+   "seconds": 3.129
+  },
+  {
+   "query": "Is Croatia_2023 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.038
+  },
+  {
+   "query": "Is Croatia_2023 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.72,
+   "seconds": 3.114
+  },
+  {
+   "query": "Is Croatia_2023 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 3.568
+  },
+  {
+   "query": "Is Croatia_2023 instance of Recovery ? >= ",
+   "value": 0.72,
+   "seconds": 3.007
+  },
+  {
+   "query": "Is Greece_2023 instance of EconomicStress ? >= ",
+   "value": 0.1575,
+   "seconds": 3.408
+  },
+  {
+   "query": "Is Greece_2023 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.75,
+   "seconds": 3.019
+  },
+  {
+   "query": "Is Greece_2023 instance of JoblessGrowth ? >= ",
+   "value": 0.45,
+   "seconds": 3.159
+  },
+  {
+   "query": "Is Greece_2023 instance of Recovery ? >= ",
+   "value": 0.5925,
+   "seconds": 4.13
+  },
+  {
+   "query": "Is Italy_2023 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.202
+  },
+  {
+   "query": "Is Italy_2023 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.54,
+   "seconds": 3.821
+  },
+  {
+   "query": "Is Italy_2023 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 3.166
+  },
+  {
+   "query": "Is Italy_2023 instance of Recovery ? >= ",
+   "value": 0.54,
+   "seconds": 3.141
+  },
+  {
+   "query": "Is Portugal_2023 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.579
+  },
+  {
+   "query": "Is Portugal_2023 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.675,
+   "seconds": 2.991
+  },
+  {
+   "query": "Is Portugal_2023 instance of JoblessGrowth ? >= ",
+   "value": 0.0,
+   "seconds": 3.021
+  },
+  {
+   "query": "Is Portugal_2023 instance of Recovery ? >= ",
+   "value": 0.675,
+   "seconds": 3.499
+  },
+  {
+   "query": "Is Spain_2023 instance of EconomicStress ? >= ",
+   "value": 0.245,
+   "seconds": 3.014
+  },
+  {
+   "query": "Is Spain_2023 instance of SustainableEconomicPerformance ? >= ",
+   "value": 0.6375,
+   "seconds": 2.855
+  },
+  {
+   "query": "Is Spain_2023 instance of JoblessGrowth ? >= ",
+   "value": 0.325,
+   "seconds": 3.35
+  },
+  {
+   "query": "Is Spain_2023 instance of Recovery ? >= ",
+   "value": 0.3925,
+   "seconds": 2.849
+  }
+ ]
+}

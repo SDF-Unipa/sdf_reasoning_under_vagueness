@@ -1,0 +1,546 @@
+{
+ "name": "app2",
+ "stats": {
+  "schema_files": [
+   "SDF_ext.owl"
+  ],
+  "individuals": 2653,
+  "triples": 34212,
+  "renamed": {
+   "1.1.1_a_Latvia_2021": "1.1.1_(a)_Latvia_2021",
+   "1.1.1_a_Croatia_2021": "1.1.1_(a)_Croatia_2021",
+   "1.1.1_a_Serbia_2021": "1.1.1_(a)_Serbia_2021",
+   "Indicator_1.1.1_a": "Indicator_1.1.1_(a)",
+   "1.1.1_a_United_States_2021": "1.1.1_(a)_United_States_2021",
+   "1.1.1_a_Armenia_2021": "1.1.1_(a)_Armenia_2021",
+   "1.1.1_a_France_2021": "1.1.1_(a)_France_2021",
+   "1.1.1_a_Italy_2021": "1.1.1_(a)_Italy_2021",
+   "1.1.1_a_Spain_2021": "1.1.1_(a)_Spain_2021",
+   "1.1.1_a_Belgium_2021": "1.1.1_(a)_Belgium_2021",
+   "1.1.1_a_Romania_2021": "1.1.1_(a)_Romania_2021",
+   "1.1.1_a_Estonia_2021": "1.1.1_(a)_Estonia_2021",
+   "1.1.1_a_Slovenia_2021": "1.1.1_(a)_Slovenia_2021",
+   "1.1.1_a_Greece_2021": "1.1.1_(a)_Greece_2021",
+   "1.1.1_a_Switzerland_2021": "1.1.1_(a)_Switzerland_2021",
+   "1.1.1_a_Israel_2021": "1.1.1_(a)_Israel_2021",
+   "1.1.1_a_Germany_2021": "1.1.1_(a)_Germany_2021",
+   "1.1.1_a_Republic_of_Moldova_2021": "1.1.1_(a)_Republic_of_Moldova_2021",
+   "1.1.1_a_Norway_2021": "1.1.1_(a)_Norway_2021",
+   "1.1.1_a_Luxembourg_2021": "1.1.1_(a)_Luxembourg_2021",
+   "1.1.1_a_Czechia_2021": "1.1.1_(a)_Czechia_2021",
+   "1.1.1_a_Lithuania_2021": "1.1.1_(a)_Lithuania_2021",
+   "1.1.1_a_Sweden_2021": "1.1.1_(a)_Sweden_2021",
+   "1.1.1_a_Portugal_2021": "1.1.1_(a)_Portugal_2021",
+   "1.1.1_a_Austria_2021": "1.1.1_(a)_Austria_2021",
+   "1.1.1_a_United_Kingdom_2021": "1.1.1_(a)_United_Kingdom_2021",
+   "1.1.1_a_Slovakia_2021": "1.1.1_(a)_Slovakia_2021",
+   "1.1.1_a_Ireland_2021": "1.1.1_(a)_Ireland_2021",
+   "1.1.1_a_Denmark_2021": "1.1.1_(a)_Denmark_2021",
+   "1.1.1_a_Netherlands_2021": "1.1.1_(a)_Netherlands_2021",
+   "1.1.1_a_Finland_2021": "1.1.1_(a)_Finland_2021",
+   "1.1.1_a_Poland_2021": "1.1.1_(a)_Poland_2021"
+  },
+  "pruned_triples": 23431,
+  "slice_seconds": 2.15,
+  "owl2fdl_seconds": 219.32,
+  "kb_lines": 3183
+ },
+ "parse_seconds": 0.12,
+ "results": [
+  {
+   "query": "Is Armenia_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 5.765
+  },
+  {
+   "query": "Is Austria_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.548
+  },
+  {
+   "query": "Is Belgium_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.502
+  },
+  {
+   "query": "Is Croatia_2021 instance of EconomicStress ? >= ",
+   "value": 0.2333,
+   "seconds": 2.481
+  },
+  {
+   "query": "Is Czechia_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.009
+  },
+  {
+   "query": "Is Denmark_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.523
+  },
+  {
+   "query": "Is Estonia_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.537
+  },
+  {
+   "query": "Is Finland_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.555
+  },
+  {
+   "query": "Is France_2021 instance of EconomicStress ? >= ",
+   "value": 0.0058,
+   "seconds": 3.092
+  },
+  {
+   "query": "Is Germany_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.592
+  },
+  {
+   "query": "Is Greece_2021 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.552
+  },
+  {
+   "query": "Is Ireland_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.537
+  },
+  {
+   "query": "Is Israel_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.552
+  },
+  {
+   "query": "Is Italy_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.539
+  },
+  {
+   "query": "Is Latvia_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.056
+  },
+  {
+   "query": "Is Lithuania_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.563
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.893
+  },
+  {
+   "query": "Is Netherlands_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.524
+  },
+  {
+   "query": "Is Norway_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.537
+  },
+  {
+   "query": "Is Poland_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.062
+  },
+  {
+   "query": "Is Portugal_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.625
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.558
+  },
+  {
+   "query": "Is Romania_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.551
+  },
+  {
+   "query": "Is Serbia_2021 instance of EconomicStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.549
+  },
+  {
+   "query": "Is Slovakia_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.491
+  },
+  {
+   "query": "Is Slovenia_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.992
+  },
+  {
+   "query": "Is Spain_2021 instance of EconomicStress ? >= ",
+   "value": 0.3383,
+   "seconds": 2.523
+  },
+  {
+   "query": "Is Sweden_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.511
+  },
+  {
+   "query": "Is Switzerland_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 3.11
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.551
+  },
+  {
+   "query": "Is United_States_2021 instance of EconomicStress ? >= ",
+   "value": 0.0,
+   "seconds": 2.555
+  },
+  {
+   "query": "Is Armenia_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.541
+  },
+  {
+   "query": "Is Austria_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.754
+  },
+  {
+   "query": "Is Belgium_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0058,
+   "seconds": 3.287
+  },
+  {
+   "query": "Is Croatia_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.35,
+   "seconds": 2.638
+  },
+  {
+   "query": "Is Czechia_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.61
+  },
+  {
+   "query": "Is Denmark_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.578
+  },
+  {
+   "query": "Is Estonia_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.589
+  },
+  {
+   "query": "Is Finland_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.508
+  },
+  {
+   "query": "Is France_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.3383,
+   "seconds": 3.078
+  },
+  {
+   "query": "Is Germany_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0058,
+   "seconds": 2.605
+  },
+  {
+   "query": "Is Greece_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.533
+  },
+  {
+   "query": "Is Ireland_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.605
+  },
+  {
+   "query": "Is Israel_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.507
+  },
+  {
+   "query": "Is Italy_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0058,
+   "seconds": 3.304
+  },
+  {
+   "query": "Is Latvia_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.654
+  },
+  {
+   "query": "Is Lithuania_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.614
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0058,
+   "seconds": 2.554
+  },
+  {
+   "query": "Is Netherlands_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.561
+  },
+  {
+   "query": "Is Norway_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.504
+  },
+  {
+   "query": "Is Poland_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 3.113
+  },
+  {
+   "query": "Is Portugal_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.3383,
+   "seconds": 2.744
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.785
+  },
+  {
+   "query": "Is Romania_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.35,
+   "seconds": 2.637
+  },
+  {
+   "query": "Is Serbia_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.2333,
+   "seconds": 2.527
+  },
+  {
+   "query": "Is Slovakia_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 3.062
+  },
+  {
+   "query": "Is Slovenia_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.2333,
+   "seconds": 2.666
+  },
+  {
+   "query": "Is Spain_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0058,
+   "seconds": 2.704
+  },
+  {
+   "query": "Is Sweden_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.697
+  },
+  {
+   "query": "Is Switzerland_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0058,
+   "seconds": 3.23
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.584
+  },
+  {
+   "query": "Is United_States_2021 instance of StressedNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.637
+  },
+  {
+   "query": "Is Armenia_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 3.224
+  },
+  {
+   "query": "Is Austria_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.639
+  },
+  {
+   "query": "Is Belgium_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0042,
+   "seconds": 2.665
+  },
+  {
+   "query": "Is Croatia_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.25,
+   "seconds": 2.647
+  },
+  {
+   "query": "Is Czechia_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.695
+  },
+  {
+   "query": "Is Denmark_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 3.196
+  },
+  {
+   "query": "Is Estonia_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.688
+  },
+  {
+   "query": "Is Finland_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.733
+  },
+  {
+   "query": "Is France_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.2417,
+   "seconds": 2.574
+  },
+  {
+   "query": "Is Germany_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0042,
+   "seconds": 2.545
+  },
+  {
+   "query": "Is Greece_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 3.149
+  },
+  {
+   "query": "Is Ireland_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.65
+  },
+  {
+   "query": "Is Israel_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.577
+  },
+  {
+   "query": "Is Italy_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0042,
+   "seconds": 2.538
+  },
+  {
+   "query": "Is Latvia_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.515
+  },
+  {
+   "query": "Is Lithuania_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.518
+  },
+  {
+   "query": "Is Luxembourg_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0042,
+   "seconds": 3.049
+  },
+  {
+   "query": "Is Netherlands_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.535
+  },
+  {
+   "query": "Is Norway_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.506
+  },
+  {
+   "query": "Is Poland_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 3.078
+  },
+  {
+   "query": "Is Portugal_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.2417,
+   "seconds": 2.585
+  },
+  {
+   "query": "Is Republic_of_Moldova_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.597
+  },
+  {
+   "query": "Is Romania_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.25,
+   "seconds": 2.579
+  },
+  {
+   "query": "Is Serbia_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.1667,
+   "seconds": 2.534
+  },
+  {
+   "query": "Is Slovakia_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 3.082
+  },
+  {
+   "query": "Is Slovenia_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.1667,
+   "seconds": 2.569
+  },
+  {
+   "query": "Is Spain_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0042,
+   "seconds": 2.549
+  },
+  {
+   "query": "Is Sweden_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.54
+  },
+  {
+   "query": "Is Switzerland_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0042,
+   "seconds": 2.545
+  },
+  {
+   "query": "Is United_Kingdom_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 2.538
+  },
+  {
+   "query": "Is United_States_2021 instance of BasicNeedsNeighbourhood ? >= ",
+   "value": 0.0,
+   "seconds": 3.051
+  },
+  {
+   "query": "Is Armenia_2021 instance of LandReachableStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.641
+  },
+  {
+   "query": "Is Italy_2021 instance of LandReachableStress ? >= ",
+   "value": 0.35,
+   "seconds": 2.687
+  },
+  {
+   "query": "Is Italy related to France through hasDistance ? >= ",
+   "value": 1.0,
+   "seconds": 9.349
+  },
+  {
+   "query": "Is Distance_France_Italy instance of BorderingDistance ? >= ",
+   "value": 1.0,
+   "seconds": 2.564
+  },
+  {
+   "query": "Is Distance_France_Italy instance of ShortDistance ? >= ",
+   "value": 1.0,
+   "seconds": 3.046
+  },
+  {
+   "query": "Is Distance_France_Italy instance of LongDistance ? >= ",
+   "value": 0.0,
+   "seconds": 2.543
+  }
+ ]
+}
